@@ -7,7 +7,7 @@ ntp_timezone: Etc/UTC
 # ntp_config_file: /etc/ntp.conf
 # ntp_driftfile: [various]
 
-ntp_manage_config: false
+ntp_manage_config: true
 
 # NTP server area configuration (leave empty for 'Worldwide').
 # See: http://support.ntp.org/bin/view/Servers/NTPPoolServers
